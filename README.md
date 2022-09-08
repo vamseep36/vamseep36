@@ -14,7 +14,7 @@ I take great care in the experience, architecture, and code quality of the thing
 <p>💡 I’m curious about to Learn new things.</p>
 <p>📖 I’m currently learning Flask.</p>
 <p>❄️ I’m looking to collaborate on Open Source Projects.</p>
-<p> :octocat: I'm always interested to work on new things.</p>
+<p>💻 I'm always interested to work on new things.</p>
 <p>💬 Ask me about anything, I am happy to help.</p>
 
 </div>
